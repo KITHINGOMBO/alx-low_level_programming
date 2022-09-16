@@ -1,12 +1,12 @@
-_putchar
-I sometimes suffer from insomnia
-10 x alphabet
-islower
-isalpha
-Sign
-There is no such thing as absolute value in this world
-There are only 3 colors, 10 digits, and 7 notes
-I'm federal agent Jack Bauer
-Learn your times table
-a + b
-98 Battery Street
+0. _putchar
+1. I sometimes suffer from insomnia.
+2. 10 x alphabet
+3. islower
+4. isalpha
+5. Sign
+6. There is no such thing as absolute value in this world.
+7. There are only 3 colors, 10 digits, and 7 notes
+8. I'm federal agent Jack Bauer
+9. Learn your times table
+10. a + b
+11. 98 Battery Street, the OG
