@@ -1,13 +1,13 @@
 #include "main.h"
 
 /**
- * _strncpy - Copy a string
- * @dest: The destination value
- * @src: The source value
- * @n: The limit of the concatenation
- *
- * Return: A pointer to the resulting string dest
- */
+  * _strncat - Concatenates two strings
+  * @dest: The destination value
+  * @src: The source value
+  * @n: The limit of the concatenation
+  *
+  * Return: A pointer to the resulting string dest
+  */
 char *_strncat(char *dest, char *src, int n)
 {
 	int dlen = 0, j = 0;
@@ -28,4 +28,3 @@ char *_strncat(char *dest, char *src, int n)
 
 	return (dest);
 }
-
