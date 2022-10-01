@@ -1,1 +1,1 @@
-Create the static library libmy.a 
+0x09. C - Static libraries
