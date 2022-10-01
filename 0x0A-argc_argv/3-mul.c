@@ -17,11 +17,10 @@ int main(int argc, char *argv[])
 		printf("Error\n");
 		return (1);
 	}
-	for (index =1; index < argv; index++)
+	for (index = 1; index < argv; index++)
 	{
 		multiplication = multiplation * atoi(argv[index]);
 	}
 	printf("%d\n", multiplication);
 	return (0);
 }
-
