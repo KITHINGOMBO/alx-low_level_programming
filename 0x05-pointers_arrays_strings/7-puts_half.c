@@ -28,8 +28,8 @@ void puts_half(char *str)
 
 	for (; k < j; k++)
 	{
-		putchar(str[k]);
+		puts_half(str[k]);
 	}
 
-	putchar('\n');
+	puts_half('\n');
 }
